@@ -47,3 +47,7 @@ end
 
 gem "gmaps4rails"
 gem "geocoder"
+
+gem 'therubyracer'
+gem 'less-rails'
+gem 'twitter-bootstrap-rails'
